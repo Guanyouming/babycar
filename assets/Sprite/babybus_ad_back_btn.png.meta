@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "ea21ce70-17cd-4bba-a6a5-98c6b23fa653",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "babybus_ad_back_btn": {
+      "ver": "1.0.3",
+      "uuid": "5e119d2f-cb01-461d-bf5a-418939df46a0",
+      "rawTextureUuid": "ea21ce70-17cd-4bba-a6a5-98c6b23fa653",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 2,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 180,
+      "height": 184,
+      "rawWidth": 185,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
