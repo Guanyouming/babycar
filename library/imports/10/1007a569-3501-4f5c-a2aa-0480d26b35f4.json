@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "age_card_4",
+    "texture": "66f24a3f-bdc1-46a0-af15-ba375d74da08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      414,
+      644
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      414,
+      644
+    ]
+  }
+}

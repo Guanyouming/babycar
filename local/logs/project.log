@@ -1,0 +1,55 @@
+2018-11-21T01:06:15.700Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-21T01:06:15.700Z - normal: checking language setting...
+2018-11-21T01:06:15.700Z - normal: Language: zh
+2018-11-21T01:06:17.432Z - success: protocol editor-framework registered
+2018-11-21T01:06:17.432Z - success: protocol app registered
+2018-11-21T01:06:17.432Z - success: protocol theme registered
+2018-11-21T01:06:17.432Z - success: protocol packages registered
+2018-11-21T01:06:17.432Z - success: protocol unpack registerred
+2018-11-21T01:06:17.432Z - success: protocol disable-commonjs registerred
+2018-11-21T01:06:17.681Z - normal: connected!
+2018-11-21T01:06:17.697Z - normal: Check project G:\MyProject\Babybus
+2018-11-21T01:06:17.697Z - normal: Initializing project G:\MyProject\Babybus
+2018-11-21T01:06:17.712Z - normal: Initializing Cocos2d
+2018-11-21T01:06:18.071Z - normal: Initializing Asset Database
+2018-11-21T01:06:18.134Z - success: protocol uuid registerred
+2018-11-21T01:06:18.134Z - success: protocol db registerred
+2018-11-21T01:06:18.134Z - success: protocol thumbnail registerred
+2018-11-21T01:06:18.134Z - normal: Loading editor/builtin packages
+2018-11-21T01:06:18.352Z - success: assets loaded
+2018-11-21T01:06:18.352Z - success: builder loaded
+2018-11-21T01:06:18.352Z - success: cocos-analytics loaded
+2018-11-21T01:06:18.368Z - success: console loaded
+2018-11-21T01:06:18.399Z - success: fb-instant-games loaded
+2018-11-21T01:06:18.399Z - success: hierarchy loaded
+2018-11-21T01:06:18.399Z - success: inspector loaded
+2018-11-21T01:06:18.399Z - success: keystore loaded
+2018-11-21T01:06:18.399Z - success: node-library loaded
+2018-11-21T01:06:18.399Z - success: package-asset loaded
+2018-11-21T01:06:18.399Z - success: preferences loaded
+2018-11-21T01:06:18.399Z - success: project-exporter loaded
+2018-11-21T01:06:18.414Z - success: project-importer loaded
+2018-11-21T01:06:18.414Z - success: project-settings loaded
+2018-11-21T01:06:18.414Z - success: ui-kit loaded
+2018-11-21T01:06:18.414Z - success: scene loaded
+2018-11-21T01:06:18.414Z - success: sprite-editor loaded
+2018-11-21T01:06:18.430Z - success: store loaded
+2018-11-21T01:06:18.430Z - success: timeline loaded
+2018-11-21T01:06:18.430Z - normal: Loading builtin packages
+2018-11-21T01:06:18.492Z - success: asset-db-debugger loaded
+2018-11-21T01:06:18.492Z - success: code-editor loaded
+2018-11-21T01:06:18.492Z - success: color-picker loaded
+2018-11-21T01:06:18.492Z - success: package-manager loaded
+2018-11-21T01:06:18.492Z - success: qqplay-adapter loaded
+2018-11-21T01:06:18.508Z - success: sdkbox loaded
+2018-11-21T01:06:18.508Z - success: tester loaded
+2018-11-21T01:06:18.508Z - success: ui-grid loaded
+2018-11-21T01:06:18.508Z - success: ui-kit-preview-extra loaded
+2018-11-21T01:06:18.508Z - success: ui-kit-preview loaded
+2018-11-21T01:06:18.508Z - success: ui-tree loaded
+2018-11-21T01:06:18.508Z - success: weapp-adapter loaded
+2018-11-21T01:06:19.654Z - normal: Loading packages
+2018-11-21T01:06:19.670Z - normal: Watching packages
+2018-11-21T01:06:19.904Z - normal: Run Application
+2018-11-21T01:06:21.058Z - success: preview server running at http://localhost:7456
+2018-11-21T08:07:59.687Z - info: shutdown preview server

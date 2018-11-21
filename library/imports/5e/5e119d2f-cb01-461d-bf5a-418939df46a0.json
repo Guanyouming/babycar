@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "babybus_ad_back_btn",
+    "texture": "ea21ce70-17cd-4bba-a6a5-98c6b23fa653",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      180,
+      184
+    ],
+    "offset": [
+      -1.5,
+      2
+    ],
+    "originalSize": [
+      185,
+      188
+    ]
+  }
+}
